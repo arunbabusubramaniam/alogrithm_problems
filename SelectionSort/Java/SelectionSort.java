@@ -1,6 +1,7 @@
 /**
  * @author ArunBabu subramaniam
- * Time Complexity O(n^2)
+ * Time Complexity O(n^2) for Best, Average and Worst case
+ * Swap has the better complexity O(N) than Bubble sort O(N^2)
  * In-place & May be stable or unstable which is based on the order of the elements in the array
  * Space complexity - O(1)
  * @param <T>
